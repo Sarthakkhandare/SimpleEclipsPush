@@ -5,7 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		
-		String sar="sarthak";
-		System.out.println(sar);
+		String sarthak="sarthak";
+		System.out.println(sarthak);
 	}
 }
